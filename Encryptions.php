@@ -3,9 +3,9 @@
 class Encryptions
 {
     
-    private $key; #Same as in C
+    private $key;
 
-    private $iv; #Same as in C 
+    private $iv;
 
     public function __construct() {
 
